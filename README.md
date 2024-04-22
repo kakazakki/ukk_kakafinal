@@ -30,10 +30,11 @@ Untuk Fitur masih minim:
 
 - ERD
 
-
+![ERD](https://github.com/kakazakki/ukk_kakafinal/assets/105642339/284d5566-db9e-4140-9977-0a191a8c21fc)
 
 - Relasi
 
+![RELASI](https://github.com/kakazakki/ukk_kakafinal/assets/105642339/8d4905f9-4b26-4596-a745-c995dda2e0a3)
 
 - UML
 
