@@ -30,16 +30,14 @@ Untuk Fitur masih minim:
 
 - ERD
 
-![ERD UKK-GALLERY](https://github.com/kakazakki/ukk_kakafinal/assets/105845443/6e5a911b-5842-40a4-9687-00ae5d0abf37)
+
 
 - Relasi
 
-![Screenshot 2024-04-21 193432](https://github.com/kakazakki/ukk_kakafinal/assets/105845443/4d66e307-0230-4646-ac62-1de2d6a548b0)
 
 - UML
 
-![UML GALLERY drawio](https://github.com/Kuro192/kakazakki/ukk_kakafinal/105845443/871c2ea4-c579-42e9-944d-47cf0e83c5ff)
-
+![UML](https://github.com/kakazakki/ukk_kakafinal/assets/105642339/a0c76782-03aa-472a-9ada-a3497f0e624f)
 
 ## Prasyaratan
 
