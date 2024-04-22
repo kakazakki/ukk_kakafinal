@@ -49,7 +49,7 @@ Untuk Fitur masih minim:
 ## Instalasi
 1. Clone Repository
 ```
-https://github.com/Kuro192/UKK_Gallery.git
+https://github.com/kakazakki/ukk_kakafinal
 ```
 
 2. Install Composer
